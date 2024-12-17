@@ -1,7 +1,7 @@
 
-# python
+# Winsorize
 
-python 代码
+去除极值
 
 ## 模块开发
 
