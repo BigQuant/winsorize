@@ -33,7 +33,7 @@ python3 -c "from bigmodule import M; M.x.y()"
 以当前模块为例，示例如下
 
 ```bash
-python3 -c "from bigmodule import M; M.python.v0()"
+python3 -c "from bigmodule import M; M.winsorize.v9999()"
 ```
 
 ### 测试完成后卸载开发环境模块
